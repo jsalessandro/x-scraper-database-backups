@@ -4,14 +4,14 @@ Automatic backups of X-Scraper database
 
 | Date | Records | Size | File |
 |------|---------|------|------|
-| data_backup_20260503_031304.zip | 1294 | 5.4M | [data_backup_20260503_031304.zip](backups/data_backup_20260503_031304.zip) |
-| data_backup_20260501_031322.zip | 1294 | 5.4M | [data_backup_20260501_031322.zip](backups/data_backup_20260501_031322.zip) |
+| data_backup_20260504_031407.zip | 1294 | 5.4M | [data_backup_20260504_031407.zip](backups/data_backup_20260504_031407.zip) |
 | data_backup_20260502_031119.zip | 1294 | 5.4M | [data_backup_20260502_031119.zip](backups/data_backup_20260502_031119.zip) |
+| data_backup_20260503_031304.zip | 1294 | 5.4M | [data_backup_20260503_031304.zip](backups/data_backup_20260503_031304.zip) |
+| data_backup_20260430_031314.zip | 1294 | 5.4M | [data_backup_20260430_031314.zip](backups/data_backup_20260430_031314.zip) |
+| data_backup_20260501_031322.zip | 1294 | 5.4M | [data_backup_20260501_031322.zip](backups/data_backup_20260501_031322.zip) |
 | data_backup_20260428_031311.zip | 1294 | 5.4M | [data_backup_20260428_031311.zip](backups/data_backup_20260428_031311.zip) |
 | data_backup_20260429_031303.zip | 1294 | 5.4M | [data_backup_20260429_031303.zip](backups/data_backup_20260429_031303.zip) |
-| data_backup_20260430_031314.zip | 1294 | 5.4M | [data_backup_20260430_031314.zip](backups/data_backup_20260430_031314.zip) |
 | data_backup_20260425_030920.zip | 1294 | 5.4M | [data_backup_20260425_030920.zip](backups/data_backup_20260425_030920.zip) |
 | data_backup_20260426_031201.zip | 1294 | 5.4M | [data_backup_20260426_031201.zip](backups/data_backup_20260426_031201.zip) |
 | data_backup_20260427_031312.zip | 1294 | 5.4M | [data_backup_20260427_031312.zip](backups/data_backup_20260427_031312.zip) |
 | data_backup_20260419_031041.zip | 1294 | 5.4M | [data_backup_20260419_031041.zip](backups/data_backup_20260419_031041.zip) |
-| data_backup_20260424_031127.zip | 1294 | 5.4M | [data_backup_20260424_031127.zip](backups/data_backup_20260424_031127.zip) |
